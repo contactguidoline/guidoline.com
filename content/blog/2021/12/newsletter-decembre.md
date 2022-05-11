@@ -30,7 +30,4 @@ related_articles: []
 
 Sans oublier **tous les évènements à venir** jusqu'à la fin de l'année 2021 ! Entre [Nocturne](https://www.facebook.com/events/318960943130839/?ref=newsfeed), Marché de Noël et expositions, le mois de décembre promet d'être riche en émotion !
 
-![Détail de la décoration de noël](/uploads/decoration-de-noel-sapin-variante.jpg)
-
-
 Pour plus d'infos, c'est [**ici**](http://kork.mjt.lu/nl2/kork/mr5x9.html?hl=fr) !
