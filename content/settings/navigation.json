@@ -18,14 +18,7 @@
     }
   ],
   "footer": [
-    {
-      "text": "Acceuil",
-      "href": "/"
-    },
-    {
-      "text": "Contacts",
-      "href": "/qui-sommes-nous#contacts"
-    }
+
   ],
   "secondary": [
     {
