@@ -6,7 +6,7 @@ cover:
   alt: ''
   legend: ''
 template: article
-publish: false
+publish: true
 SEO:
   description: "**Retrouvez la première Newsletter Guidoline 2022** avec un petit
     récap' en photo de l'année 2021, et quelques rappels concernant les adhésions
